@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre Nós | LAF Serviços em TI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">LAF TI</div>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Sobre a LAF Serviços em TI</h1>
+        <p>A LAF nasceu com o propósito de simplificar a tecnologia para empresas de todos os tamanhos. Com foco em eficiência e segurança, nossa equipe trabalha para garantir que sua infraestrutura nunca pare.</p>
+        <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80" alt="Equipe" style="width:100%; border-radius:8px; margin-top:20px;">
+    </div>
+
+    <footer><p>&copy; 2026 LAF Serviços em TI</p></footer>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Serviços | LAF Serviços em TI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">LAF TI</div>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Nossas Soluções</h1>
+        <ul>
+            <li><strong>Suporte Técnico:</strong> Atendimento ágil para problemas de hardware e software.</li>
+            <li><strong>Gestão de Redes:</strong> Instalação e manutenção de redes seguras.</li>
+            <li><strong>Segurança da Informação:</strong> Proteção contra ameaças e backup em nuvem.</li>
+            <li><strong>Consultoria:</strong> Planejamento estratégico de infraestrutura de TI.</li>
+        </ul>
+    </div>
+
+    <footer><p>&copy; 2026 LAF Serviços em TI</p></footer>
+</body>
+</html>
