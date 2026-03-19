@@ -50,5 +50,8 @@
     </div>
 
     <footer><p>&copy; 2026 LAF Serviços em TI</p></footer>
+<a href="https://wa.me/5541988156563?text=Olá! Gostaria de um orçamento da LAF Serviços em TI." class="whatsapp-float" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="35px">
+    </a>
 </body>
 </html>
