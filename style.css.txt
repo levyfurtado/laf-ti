@@ -78,3 +78,9 @@ footer { text-align: center; padding: 3rem; background: #2c3e50; color: white; m
         right: 20px;
     }
 }
+<a href="https://wa.me/5541988156563?text=Olá! Gostaria de um orçamento da LAF Serviços em TI." class="whatsapp-float" target="_blank">
+        <span style="font-family: Arial; font-weight: bold;">WA</span>
+    </a>
+
+</body>
+</html>
